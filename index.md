@@ -18,3 +18,7 @@
 ![tree](https://wubin-o.github.io/learngit/29.png)
 ![tree](https://wubin-o.github.io/learngit/30.png)
 ![tree](https://wubin-o.github.io/learngit/31.png)
+### 6.管理修改
+![tree](https://wubin-o.github.io/learngit/32.png)
+![tree](https://wubin-o.github.io/learngit/33.png)
+![tree](https://wubin-o.github.io/learngit/34.png)

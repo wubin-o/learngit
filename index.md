@@ -28,3 +28,5 @@
 ![tree](https://wubin-o.github.io/learngit/37.png)
 ### 8.删除文件
 ![tree](https://wubin-o.github.io/learngit/38.png)
+### 9.远程仓库
+![tree](https://wubin-o.github.io/learngit/38.png)

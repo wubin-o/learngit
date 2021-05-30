@@ -4,4 +4,12 @@
 ### 1.安装 Git
 ![tree](https://wubin-o.github.io/learngit/20.png)
 ### 2.创建版本库
-![tree](https://wubin-o.github.io/learngit/20.png)
+![tree](https://wubin-o.github.io/learngit/21.png)
+![tree](https://wubin-o.github.io/learngit/22.png)
+![tree](https://wubin-o.github.io/learngit/23.png)
+### 3.版本控制
+![tree](https://wubin-o.github.io/learngit/21.png)
+### 4.版本回退
+![tree](https://wubin-o.github.io/learngit/21.png)
+![tree](https://wubin-o.github.io/learngit/21.png)
+![tree](https://wubin-o.github.io/learngit/21.png)

@@ -22,3 +22,7 @@
 ![tree](https://wubin-o.github.io/learngit/32.png)
 ![tree](https://wubin-o.github.io/learngit/33.png)
 ![tree](https://wubin-o.github.io/learngit/34.png)
+### 7.撤销修改
+![tree](https://wubin-o.github.io/learngit/35.png)
+![tree](https://wubin-o.github.io/learngit/36.png)
+![tree](https://wubin-o.github.io/learngit/37.png)

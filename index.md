@@ -30,3 +30,6 @@
 ![tree](https://wubin-o.github.io/learngit/39.png)
 ### 9.远程仓库
 ![tree](https://wubin-o.github.io/learngit/38.png)
+### 10.添加到远程仓库
+![tree](https://wubin-o.github.io/learngit/40.png)
+![tree](https://wubin-o.github.io/learngit/41.png)

@@ -13,3 +13,8 @@
 ![tree](https://wubin-o.github.io/learngit/25.png)
 ![tree](https://wubin-o.github.io/learngit/26.png)
 ![tree](https://wubin-o.github.io/learngit/27.png)
+### 5.工作区和暂存区
+![tree](https://wubin-o.github.io/learngit/28.png)
+![tree](https://wubin-o.github.io/learngit/29.png)
+![tree](https://wubin-o.github.io/learngit/30.png)
+![tree](https://wubin-o.github.io/learngit/31.png)

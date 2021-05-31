@@ -33,3 +33,12 @@
 ### 10.添加到远程仓库
 ![tree](https://wubin-o.github.io/learngit/42.png)
 ![tree](https://wubin-o.github.io/learngit/41.png)
+### 11.分支管理
+![tree](https://wubin-o.github.io/learngit/43.png)
+![tree](https://wubin-o.github.io/learngit/44.png)
+![tree](https://wubin-o.github.io/learngit/45.png)
+![tree](https://wubin-o.github.io/learngit/46.png)
+![tree](https://wubin-o.github.io/learngit/47.png)
+![tree](https://wubin-o.github.io/learngit/48.png)
+![tree](https://wubin-o.github.io/learngit/49.png)
+![tree](https://wubin-o.github.io/learngit/50.png)

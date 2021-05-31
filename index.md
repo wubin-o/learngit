@@ -43,4 +43,4 @@
 ![tree](https://wubin-o.github.io/learngit/49.png)
 ![tree](https://wubin-o.github.io/learngit/50.png)
 ### 12.使用github
-![tree](https://wubin-o.github.io/learngit/50.png)
+![tree](https://wubin-o.github.io/learngit/51.png)

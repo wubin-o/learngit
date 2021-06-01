@@ -44,3 +44,9 @@
 ![tree](https://wubin-o.github.io/learngit/50.png)
 ### 12.使用github
 ![tree](https://wubin-o.github.io/learngit/51.png)
+### 13.使用gitee
+![tree](https://wubin-o.github.io/learngit/52.png)
+![tree](https://wubin-o.github.io/learngit/53.png)
+![tree](https://wubin-o.github.io/learngit/54.png)
+![tree](https://wubin-o.github.io/learngit/55.png)
+![tree](https://wubin-o.github.io/learngit/56.png)
